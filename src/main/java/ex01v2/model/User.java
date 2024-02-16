@@ -1,4 +1,4 @@
-package ex01.model;
+package ex01v2.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
